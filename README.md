@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StarWraith2520
-- 👀 I’m interested in Java and C++.
+- 👀 I’m interested in Java, C++, and HTML/CSS.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
